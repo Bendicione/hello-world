@@ -1,16 +1,28 @@
-# 🚦 Traffic Light Simulator (Python)
+# 🚦 Traffic Light Simulator
 
-This is a simple command-line Python project that simulates a real-world traffic light using print statements and time delays.
+A simple command-line Python program that simulates a traffic light system using delays and colored emoji lights.
 
-## 🧠 Features
-- Simulates red, yellow, and green lights
-- Uses emojis for clear visuals
-- Runs in a loop like a real traffic light
+---
 
-## 📂 File
-- traffic_light_simulator.py
+## ✅ Features
+- Mimics a real traffic light cycle: Red → Yellow → Green
+- Loops indefinitely until manually stopped
+- Clear and minimal terminal output
+- Great beginner Python project
 
-## ▶ How to Run
+---
+
+## 🛠 Tech Stack
+- Python 3
+- Terminal / Command Line Interface (CLI)
+- Uses time module
+
+---
+
+## ▶ How to Use
+
+### 1. Clone the Repository
 
 ```bash
-python traffic_light_simulator.py
+git clone https://github.com/Bendicione/helloworld.Git
+cd helloworld.Git
